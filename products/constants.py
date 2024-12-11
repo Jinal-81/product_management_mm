@@ -17,4 +17,10 @@ ORDER_DELETED_SUCCESS_MSG = "Order deleted successfully."
 ORDER_RETRIEVED_SUCCESS_MSG = "Order list retrieved successfully!"
 
 
+PRODUCT_DATA_DICT = {'name': 'Test First Product', 'price': 900.0, 'stock': 20}
+PRODUCT_UPDATED_DATA_DICT = {'name': 'Updated First Product', 'price': 750.0, 'stock': 10}
 
+DISCOUNT_DATA_DICT = {'name': 'Test First Discount', 'percentage': 20}
+DISCOUNT_DATA_UPDATED_DICT = {'name': 'Updated First Discount', 'percentage': 10}
+
+ORDER_DATA_DICT = {'product': None, 'quantity': 2, 'price': 200.0}
