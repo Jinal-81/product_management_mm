@@ -2,7 +2,7 @@ PRODUCT MANAGEMENT
 
 1. steps create venv 
 2. clone the product using below link:
-   **link: **
+   **link: https://github.com/Jinal-81/product_management_mm.git **
 3. add the requirement.
 4. add your local env settings.
 
